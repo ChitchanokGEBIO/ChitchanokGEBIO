@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ChitchanokGEBIO
 - 👀 I'm interested in bioinformatics analysis in genomics
-- 🌱 I'm currently learning gene analysis
-- 💞️ I’m looking to collaborate on plant genomics via computer approaches analysis 
 - 📫 How to reach me : Chitchanoktan@gmail.com
 
 <!---
